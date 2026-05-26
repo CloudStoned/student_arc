@@ -1,0 +1,478 @@
+html{
+	margin: 0;
+	padding:0;
+	scroll-behavior: smooth;
+}
+
+body{
+	margin:0;
+	padding: 0;
+}
+
+/* nav bar */ 
+
+.logo{
+	padding-top:15px;
+	padding-left: 25px;
+}
+
+header{
+	background:#000;
+	width: 100%;
+	height:170px;
+	position: fixed;
+}
+
+nav{
+	position: fixed;
+		top:72px;
+		right:90px;
+		bottom:0; 
+	text-align: right;
+	word-spacing: 25px;
+}
+
+
+nav a:hover{
+	border: 1px solid white;
+	background-color:#f4b183 ;
+	padding: 10px;
+}
+
+.headerlink{
+	text-decoration: none;
+	font-size: 20px;
+	padding:5px;
+	color:#fff;
+}
+
+/* nav bar */ 
+
+/* ABOUT TITLE */ 
+
+.ph1 img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: inherit;
+}
+
+.ict h1{
+	font-size: 40px;
+	text-align: justify;
+	font-weight: 100;
+	line-height: 40px;
+	text-align: center;
+	position: absolute;
+		top: 320px;
+		right:0;
+		bottom:0;
+		left:0;
+	color: #fff;
+	
+	/* color */ 
+
+	background-color: rgba(0,0,0,80%);
+	margin-top: 15px;
+	margin-left: 350px;
+	margin-right:350px;
+	margin-bottom:540px;
+	padding: 10px;
+}
+
+/* content */ 
+
+.title{
+	margin-top: 50px;
+	text-align: center;
+}
+
+
+.title h1{
+	font-weight: 100;
+}
+
+dd{
+	text-indent: 80px;
+	text-align: justify;
+	margin-left: 250px;
+	margin-right: 250px;
+	font-size: 20px;
+	line-height: 40px;
+	word-spacing: 4px;
+}
+
+/* subject offer */ 
+
+.subj{
+	margin-top: 120px;
+	text-align: center;
+	margin-left: 250px;
+	margin-right: 250px;
+}
+
+.subj h1{
+	font-weight: 100;
+}
+
+/* table 1 */ 
+
+.bgcolor{
+	position: static;
+	background-color: #000;
+	margin-top: 50px;
+	margin-left: 40%;
+	margin-right: 40%;
+}
+
+.table1{
+	padding-top:25px;
+	padding-left: auto;
+	padding-right: auto; 
+	padding-bottom: 10px;
+}
+
+.table1 hr{
+	border:1px solid #FFA500;
+}
+
+.table1 h2{
+	font-weight: 100;
+	color:#fff;
+	text-align: justify;
+	text-align: center;
+}
+
+/* table 2 */ 
+
+.bgcolor1{
+	background-color: #000;
+	margin-top: 50px;
+	margin-left: 25%;
+	margin-right: 55%;
+}
+
+.table2{
+	padding-top:25px;
+	padding-left: auto;
+	padding-right: auto; 
+	padding-bottom: 10px;
+}
+
+.table2 hr{
+	border:1px solid #FFA500;
+}
+
+.table2 h2{
+	font-weight: 100;
+	color:#fff;
+	text-align: justify;
+	text-align: center;
+}
+
+/* table 3 */
+
+.move{	
+	position: relative;
+		bottom: 544px;
+		left:50%;
+}
+
+.bgcolor2{
+	background-color: #000;
+	margin-top: 0px;
+	margin-left: 0%;
+	margin-right: 1550px;
+}
+
+.table3{
+	padding-top:25px;
+	padding-left: auto;
+	padding-right: auto; 
+	padding-bottom: 10px;
+}
+
+.table3 hr{
+	border:1px solid #FFA500;
+}
+
+.table3 h2{
+	font-weight: 100;
+	color:#fff;
+	text-align: justify;
+	text-align: center;
+}
+
+
+/* ACTIVITIES */
+
+.activity{
+	text-align: center;
+}
+
+.activity h1{
+	margin-top: 200px;
+	font-weight: 100;
+}
+
+.activity hr{
+	margin-top: 5px;
+	margin-left: 250px;
+	margin-right: 250px;
+}
+
+/* vbox */
+
+.vbox{
+	margin-top: 15px;
+	text-align: center;
+}
+
+.def{
+	text-align: center;
+	text-align: justify;
+	text-indent: 80px;
+
+}
+
+.def dd{
+	text-indent: 80px;
+	text-align: justify;
+	margin-left: 250px;
+	margin-right: 250px;
+	font-size: 20px;
+	line-height: 40px;
+	word-spacing: 4px;
+}
+
+/* 3 activities */
+
+
+.activites1{
+	margin-top: 90px;
+	margin-left: 0px;	
+	text-align: center;
+}
+
+/* banner 1 */
+
+.act1{
+	font-weight: 100;
+	display: inline-block;
+	padding-top: 25px;
+	padding-left: 110px;
+	padding-right: 100px;
+	color:#fff;
+}
+
+.color{
+	background-color: #000;
+	padding-top: 30px;
+	padding-right: 40px;
+	padding-left: 40px;
+	padding-bottom: 30px;
+}
+
+ .first{
+	font-size:20px;
+	line-height: 40px;
+	word-spacing: 3px;;
+	text-align: justify;
+	text-indent: 50px;
+	margin-left: 610px;
+	margin-right: 610px;
+}
+
+/* banner 2 */ 
+
+.activity2{
+	margin-top:120px;
+	margin-left: 140px;	
+	margin-right: 60px;
+}
+
+.act2{
+	font-weight: 100;
+	display: inline-block;
+	padding-top: 25px;
+	padding-left: 110px;
+	padding-right: 160px;
+	color:#fff;
+}
+
+.color2{
+	margin-left: 110px;
+	background-color: #000;
+	padding-top: 30px;
+	padding-right: 80px;
+	padding-left: 80px;
+	padding-bottom: 30px;
+}
+
+.second{
+	font-size:20px;
+	line-height: 40px;
+	word-spacing: 3px;;
+	text-align: justify;
+	text-indent: 50px;
+	margin-right:940px;
+}
+
+/* banner 3 */ 
+
+.act3{
+	position: relative;
+		left:60%;
+		bottom:407px;
+	color: #fff;
+	text-align: center;
+	font-weight: 100;
+	
+}
+
+.color3{
+	background-color:#000;
+	margin-right: 1318px;
+	margin-left: 25px;
+	padding-top: 29px;
+	padding-right: 80px;
+	padding-left: 80px;
+	padding-bottom: 29px;
+}
+
+.third{
+	position: relative;
+		left: 50%;
+		bottom: 386px ;
+	font-size:20px;
+	line-height: 40px;
+	word-spacing: 3px;;
+	text-align: justify;
+	text-indent: 50px;
+	margin-right:940px;
+	
+}
+
+/* etech */
+
+.excel{
+	position: relative;
+		bottom: 300px;
+		left: 25px;
+	text-align: left;
+	padding-left: 360px;
+
+}
+
+.excelp{
+	position:relative;
+		bottom: 300px;
+	padding-left: 150px;
+	font-size:20px;
+	line-height: 40px;
+	word-spacing: 3px;
+	text-align: center;
+	text-align: justify;
+	text-indent: 50px;
+	margin-right:990px;
+}
+
+/* photoshop */ 
+
+.photoshop{
+	text-align: right;
+	padding-right: 460px;
+	position: relative;
+		bottom: 600px;
+}
+
+.photop{
+	position:relative;
+	bottom: 600px;
+	margin-left: 995px;
+	margin-right: 130px;
+	font-size:20px;
+	line-height: 40px;
+	word-spacing: 3px;
+	text-align: center;
+	text-align: justify;
+	text-indent: 50px;
+}
+
+/* html */ 
+
+.html{
+	text-align: right;
+	padding-right: 450px;
+	position: relative;
+		bottom: 540px;
+}
+
+.htmlp{
+	position:relative;
+	bottom: 500px;
+	margin-left: 990px;
+	margin-right: 130px;
+	font-size:20px;
+	line-height: 40px;
+	word-spacing: 3px;
+	text-align: center;
+	text-align: justify;
+	text-indent: 50px;
+}
+
+/* css */ 
+
+.css{
+	position: relative;
+		bottom: 830px;
+		left: 95px;
+	text-align: left;
+	padding-left: 360px;
+}
+
+.cssp{
+	position:relative;
+		bottom: 790px;
+	padding-left: 150px;
+	font-size:20px;
+	line-height: 40px;
+	word-spacing: 3px;
+	text-align: center;
+	text-align: justify;
+	text-indent: 50px;
+	margin-right:990px;
+
+	
+}
+/* FOOTER */
+
+
+.info h2{
+	font-weight: 100;
+	display: inline-block;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
+li {
+  padding:20px;
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+  margin-left: 180px;
+  font-size: 20px;
+}
+

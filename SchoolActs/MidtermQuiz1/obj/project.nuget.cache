@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIZ5j6vPybaFFLoTNVxb7vgLVYSmu5xAOI+qpXrq92R9HUMcUCuSKJUYS30pWhSa5pOXmcJ95k4FztuBbEol9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cloud\\PROJECTS\\SchoolActs\\MidtermQuiz1\\MidtermQuiz1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cloud\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\cloud\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\cloud\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\cloud\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\cloud\PROJECTS\StatsProject\StatsDLL\bin\Debug\net6.0\StatsDLL.deps.json
+C:\Users\cloud\PROJECTS\StatsProject\StatsDLL\bin\Debug\net6.0\StatsDLL.dll
+C:\Users\cloud\PROJECTS\StatsProject\StatsDLL\bin\Debug\net6.0\StatsDLL.pdb
+C:\Users\cloud\PROJECTS\StatsProject\StatsDLL\obj\Debug\net6.0\StatsDLL.csproj.AssemblyReference.cache
+C:\Users\cloud\PROJECTS\StatsProject\StatsDLL\obj\Debug\net6.0\StatsDLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloud\PROJECTS\StatsProject\StatsDLL\obj\Debug\net6.0\StatsDLL.AssemblyInfoInputs.cache
+C:\Users\cloud\PROJECTS\StatsProject\StatsDLL\obj\Debug\net6.0\StatsDLL.AssemblyInfo.cs
+C:\Users\cloud\PROJECTS\StatsProject\StatsDLL\obj\Debug\net6.0\StatsDLL.csproj.CoreCompileInputs.cache
+C:\Users\cloud\PROJECTS\StatsProject\StatsDLL\obj\Debug\net6.0\StatsDLL.dll
+C:\Users\cloud\PROJECTS\StatsProject\StatsDLL\obj\Debug\net6.0\refint\StatsDLL.dll
+C:\Users\cloud\PROJECTS\StatsProject\StatsDLL\obj\Debug\net6.0\StatsDLL.pdb
+C:\Users\cloud\PROJECTS\StatsProject\StatsDLL\obj\Debug\net6.0\ref\StatsDLL.dll

@@ -1,0 +1,72 @@
+<section class="page-section bg-light py-16" id="about">
+    <div class="container px-4">
+        <div class="row gx-5 align-items-center">
+            <!-- Image Column -->
+            <div class="col-lg-5 mb-8 mb-lg-0">
+                <div class="position-relative">
+                    <img src="{{ url_for('static', filename='images/ME.png') }}" 
+                         alt="Profile Picture" 
+                         class="img-fluid rounded-3 shadow-lg"
+                         style="object-fit: cover; height: 500px; width: 100%;"/>
+                </div>
+            </div>
+            
+            <!-- Content Column -->
+            <div class="col-lg-7">
+                <div class="ps-lg-5">
+                    <h6 class="text-primary text-uppercase mb-3">About Me</h6>
+                    <h2 class="section-heading display-4 mb-4">Hello! I'm Cloud,</h2>
+                    <div class="mb-5">
+                        <p class="text-muted mb-4">To be an AI Engineer has always been my goal. Equipped with curiosity, willingness to learn, and ability to easily adapt to any situation or circumstance, I believe this goal is achievable. </p>
+
+                        <p class="text-muted">Criticisms are always welcome with the belief that these are the root of one's growth. Struggles, despite its negative denotation, are also believed to be essential in the learning process.</p>
+                    </div>
+
+                    <!-- Links -->
+                    <div class="row g-4">
+
+                        <div class="col-md-6">
+                            <a href="https://github.com/CloudStoned" target="_blank" rel="noopener noreferrer" 
+                               class="bg-white p-3 rounded-3 shadow-sm text-decoration-none d-block hover-lift"
+                               style="transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;">
+                                <div class="d-flex align-items-center">
+                                    <i class="fas fa-code-branch text-primary me-2"></i>
+                                    <h5 class="mb-0">Github</h5>
+                                </div>
+                                <p class="mb-0 small text-muted mt-2">Projects</p>
+                            </a>
+                        </div>
+
+                        <div class="col-md-6">
+                            <a href="javascript:void(0)" onclick="window.open('../static/images/RESUME.pdf', '_blank')" 
+                               class="bg-white p-3 rounded-3 shadow-sm text-decoration-none d-block hover-lift"
+                               style="transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;">
+                                <div class="d-flex align-items-center">
+                                    <i class="fas fa-file-alt text-primary me-2"></i>
+                                    <h5 class="mb-0">C.V</h5>
+                                </div>
+                                <p class="mb-0 small text-muted mt-2">Download my resume</p>
+                            </a>
+                        </div>
+
+                        <div class="col-md-6">
+                            <a href="https://www.linkedin.com/in/cloud-neo-bagtas-7263a9279/" target="_blank" rel="noopener noreferrer" 
+                               class="bg-white p-3 rounded-3 shadow-sm text-decoration-none d-block hover-lift"
+                               style="transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;">
+                                <div class="d-flex align-items-center">
+                                    <i class="fa-brands fa-linkedin fa-lg text-primary me-2"></i>
+                                    <h5 class="mb-0">Linkedin</h5>
+                                </div>
+                                <p class="mb-0 small text-muted mt-2">Linkedin</p>
+                            </a>
+                        </div>
+
+
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

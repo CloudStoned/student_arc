@@ -1,0 +1,15 @@
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\obj\Debug\net6.0\GradeComputation.csproj.AssemblyReference.cache
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\obj\Debug\net6.0\GradeComputation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\obj\Debug\net6.0\GradeComputation.AssemblyInfoInputs.cache
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\obj\Debug\net6.0\GradeComputation.AssemblyInfo.cs
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\obj\Debug\net6.0\GradeComputation.csproj.CoreCompileInputs.cache
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\bin\Debug\net6.0\GradeComputation.deps.json
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\bin\Debug\net6.0\GradeComputation.dll
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\bin\Debug\net6.0\GradeComputation.pdb
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\obj\Debug\net6.0\GradeComputation.dll
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\obj\Debug\net6.0\refint\GradeComputation.dll
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\obj\Debug\net6.0\GradeComputation.pdb
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\obj\Debug\net6.0\ref\GradeComputation.dll
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\bin\Debug\net6.0\GradeComputation.exe
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\bin\Debug\net6.0\GradeComputation.runtimeconfig.json
+C:\Users\cloud\source\repos\GradeComputation\GradeComputation\obj\Debug\net6.0\GradeComputation.genruntimeconfig.cache

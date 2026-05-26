@@ -1,0 +1,21 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "fstream": "cpp",
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "istream": "cpp",
+        "string": "cpp",
+        "iterator": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "iomanip": "cpp",
+        "chrono": "cpp",
+        "regex": "cpp",
+        "algorithm": "cpp",
+        "iosfwd": "cpp",
+        "ctime": "cpp"
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZ0ukz17f+2kKb8KyAMHSr01rUQvyzawma8G2qRpVGDaOt4tVrl+cwlip3jnrQl5dw/OG/6Oa9azFrp+PrV4Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cloud\\PROJECTS\\StatsProject\\StatsDLL\\StatsDLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cloud\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\cloud\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\cloud\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

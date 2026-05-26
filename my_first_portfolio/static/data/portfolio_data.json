@@ -1,0 +1,52 @@
+{
+    "portfolio_items": [
+        {
+            "id": 1,
+            "title": "TaskMaster",
+            "subtitle": "Android Application",
+            "image": "images/portfolio/hci.png",
+            "description": "A robust to-do list management app for Android designed to enhance productivity and task organization.",
+            "category": "Mobile Development"
+        },
+        {
+            "id": 2,
+            "title": "Inventory System",
+            "subtitle": "Java Application",
+            "image": "images/portfolio/invsys.png",
+            "description": "A comprehensive inventory system developed for a clinic, leveraging Java and JavaFX for a seamless user interface and backend functionality.",
+            "category": "Enterprise Solutions"
+        },
+        {
+            "id": 3,
+            "title": "Wikamay",
+            "subtitle": "Machine Learning",
+            "image": "images/portfolio/asl.png",
+            "description": "An American Sign Language (ASL) recognition system powered by a Random Forest classifier for precise gesture recognition.",
+            "category": "Identity Recognition"
+        },
+        {
+            "id": 4,
+            "title": "Blog Platform",
+            "subtitle": "Full-Stack Web Development",
+            "image": "images/portfolio/blog.png",
+            "description": "A dynamic blog platform built with Python, featuring a responsive design, content management, and user authentication.",
+            "category": "Web Development"
+        },
+        {
+            "id": 5,
+            "title": "Snapfolia",
+            "subtitle": "Deep Learning",
+            "image": "images/portfolio/tree.png",
+            "description": "Snapfolia is an AI-powered leaf classification web application using YOLOv8, enabling accurate plant identification through deep learning.",
+            "category": "AI Solutions"
+        },
+        {
+            "id": 6,
+            "title": "100 Days of Python",
+            "subtitle": "Software Development",
+            "image": "images/portfolio/py.png",
+            "description": "A comprehensive 100-day Python course focused on mastering software development skills through practical coding challenges and projects.",
+            "category": "Education"
+        }
+    ]
+}
